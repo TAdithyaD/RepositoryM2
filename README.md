@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link:
+link:https://tadithyad.github.io/RepositoryM2/
 
 Woo-hoo! You get to do some coding! Exciting!
 
